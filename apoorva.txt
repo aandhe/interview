@@ -2,3 +2,4 @@ Q1: Using react, write a program to create a cascading dropdowns.
 First select box is the region, 'APAC','EMEA','US'. Second select box is the country, which should be dissplayed based on the previous selection
 
 
+Q2: Write a program to sort an array
