@@ -1,12 +1,6 @@
 Q1: Using react, write a program to create a cascading dropdowns. 
 First select box is the region, 'APAC','EMEA','US'. Second select box is the country, which should be dissplayed based on the previous selection
 
-
-
-
-
-
 Q2: Say, we have a large collection, which changes every 30 mins. We need to display the refreshed data on the UI. 
 
-
-Q3: 
+Q3: Write a program in Python, to fetch the documents from the DB, and create an API to fetch the documents. Push the documents to a cloud data store. 
